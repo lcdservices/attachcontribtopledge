@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/attachtopledge</path>
+    <page_callback>CRM_Attachcontribtopledge_Form_AttachPledge</page_callback>
+    <title>AttachPledge</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
